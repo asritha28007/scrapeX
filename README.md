@@ -4,10 +4,10 @@ A Chrome extension that scrapes web pages and processes data through a Flask bac
 
 ## Features
 
-- 🔍 Extract text content, links, images, and headings from any webpage
-- 📊 Process and analyze scraped data via Flask API
-- 💾 Download results as JSON
-- 🎨 Clean, modern UI
+-  Extract text content, links, images, and headings from any webpage
+- Process and analyze scraped data via Flask API
+- Download results as JSON
+-  Clean, modern UI
 
 ## Quick Start
 
@@ -49,17 +49,6 @@ web-scraper-extension/
 └── backend/
     └── app.py             # Flask API
 ```
-
-## Deployment
-
-### Backend (Choose one):
-- **Railway** (Recommended): Push to GitHub → Connect to Railway
-- **Render**: Free tier available
-- **Vercel**: Serverless option
-
-### Extension:
-- Share as ZIP file, or
-- Publish to Chrome Web Store ($5 fee)
 
 ## API Endpoint
 
